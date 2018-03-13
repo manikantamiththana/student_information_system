@@ -35,7 +35,7 @@
 			text-align:center;
 		}
 		h2{
-			font-size: 20px;
+			font-size: 30px;
 			text-align:left;
 			display: inline;
 		}
