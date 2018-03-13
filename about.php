@@ -15,7 +15,8 @@
 		 In case of medical emergencies, above 66% is allowed. 
 		 The student must produce a medical certificate alongwith the condonation 
 		 amount as per the rules of the instition.</br>
-		 Anits is a college permenently affiliated to Andhra University</h3>
+		 Anits is a college permenently affiliated to Andhra University
+	         vasanth is a good boy</h3>
 	</p>
 
 </body>
